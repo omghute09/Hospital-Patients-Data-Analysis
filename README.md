@@ -8,8 +8,8 @@ This project presents a visual dashboard analyzing hospital patient data. It hel
   - Female: 584  
   - Male: 400  
 - **Cost by Gender**:  
-  - Female: ₹3M (53.41%)  
-  - Male: ₹2.6M (46.59%)  
+  - Female: ₹5M (66.56%)  
+  - Male: ₹3M (33.44%)  
 - **Patient Outcomes**:  
   - Recovered: 584  
   - Stable: 400  
@@ -17,13 +17,13 @@ This project presents a visual dashboard analyzing hospital patient data. It hel
   - Yes: 264  
   - No: 720  
 - **Top Procedures by Cost**:  
-  - Procedure A: ₹1.65M  
-  - Procedure B: ₹1.50M  
-  - Procedure C: ₹1.20M  
+  - Surgery: ₹1.65M  
+  - Radiation Therapy: ₹1.30M  
+  - Cardiac: ₹1.21M  
 - **Top Conditions by Cost**:  
-  - Prostate Cancer: ₹1.65M  
-  - Lung Cancer: ₹1.50M  
-  - Heart Disease: ₹1.20M  
+  - Cancer: ₹1.65M  
+  - Prostate Cancer: ₹1.30M  
+  - Heart Attack: ₹1.21M  
 
 ## 🧠 Use Cases
 
@@ -37,12 +37,6 @@ This project presents a visual dashboard analyzing hospital patient data. It hel
 
 - Dashboard image  
 - Patient data file (if applicable)  
-- README.md  
-
-## 🚀 Getting Started
-
-You can view the dashboard directly or use the data to build your own visualizations using tools like Power BI, Excel, or Python.
-
----
+- README.md
 
 Feel free to fork, contribute, or share feedback!
