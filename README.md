@@ -9,9 +9,9 @@ Hospital Patients Data Analysis – Healthcare Dashboard
 - To support healthcare decision-making through data-driven insights.
 
 3) Tools Used
-- Microsoft Excel / Power BI / Tableau – For creating interactive visual dashboards.
+- Power BI– For creating interactive visual dashboards.
 - Hospital Patient Dataset – Includes patient demographics, outcomes, procedures, conditions, and cost data.
-- GitHub – For version control and project documentation.
+
 
 4) Key Insights
 - Patient Outcomes:
