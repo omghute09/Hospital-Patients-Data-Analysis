@@ -1,42 +1,31 @@
-This project presents a visual dashboard analyzing hospital patient data. It helps healthcare professionals and analysts understand patient demographics, treatment costs, outcomes, and readmission patterns.
+🏥 Hospital Patients Data Analysis
 
-## 📊 Dashboard Highlights
+1) Project Title
+Hospital Patients Data Analysis – Healthcare Dashboard
 
-- **Total Patients**: 984  
-- **Cost Range per Patient**: ₹100 – ₹25,000  
-- **Gender Distribution**:  
-  - Female: 584  
-  - Male: 400  
-- **Cost by Gender**:  
-  - Female: ₹5M (66.56%)  
-  - Male: ₹3M (33.44%)  
-- **Patient Outcomes**:  
-  - Recovered: 584  
-  - Stable: 400  
-- **Readmission Stats**:  
-  - Yes: 264  
-  - No: 720  
-- **Top Procedures by Cost**:  
-  - Surgery: ₹1.65M  
-  - Radiation Therapy: ₹1.30M  
-  - Cardiac: ₹1.21M  
-- **Top Conditions by Cost**:  
-  - Cancer: ₹1.65M  
-  - Prostate Cancer: ₹1.30M  
-  - Heart Attack: ₹1.21M  
+2) Objectives
+- To analyze hospital patient data using visual dashboards.
+- To uncover trends in patient outcomes, gender distribution, readmission rates, and treatment costs.
+- To support healthcare decision-making through data-driven insights.
 
-## 🧠 Use Cases
+3) Tools Used
+- Microsoft Excel / Power BI / Tableau – For creating interactive visual dashboards.
+- Hospital Patient Dataset – Includes patient demographics, outcomes, procedures, conditions, and cost data.
+- GitHub – For version control and project documentation.
 
-- Hospital performance tracking  
-- Cost optimization and budgeting  
-- Identifying high-cost treatments  
-- Gender-based healthcare analysis  
-- Readmission risk assessment  
+4) Key Insights
+- Patient Outcomes:
+- 60% of patients recovered, while 40% remained stable.
+- Gender Distribution:
+- Females accounted for 53.25% of patients and 66.56% of total treatment costs.
+- Readmission Analysis:
+- 264 patients (27%) were readmitted, indicating potential areas for care improvement.
+- Cost by Procedure:
+- Highest costs were associated with Surgery, Radiation Therapy, and Catheterization.
+- Cost by Condition:
+- Cancer, Prostate Cancer, and Heart Attack were the most expensive conditions treated.
 
-## 📁 Files Included
+5) Conclusion
+This dashboard provides a comprehensive overview of hospital patient data, helping stakeholders identify cost drivers, monitor outcomes, and improve patient care strategies. It demonstrates how healthcare analytics can be used to support operational efficiency and policy decisions.
 
-- Dashboard image  
-- Patient data file (if applicable)  
-- README.md
 
-Feel free to fork, contribute, or share feedback!
